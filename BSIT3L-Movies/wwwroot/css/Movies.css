@@ -47,7 +47,7 @@ h1 {
 
 .details {
     border: 5px solid black;
-    width: 300px;
+    width: 1000px;
     height: 350px;
     flex-wrap: wrap;
     margin: 10px;
@@ -55,15 +55,6 @@ h1 {
     text-align: center;
 }
 
-.button {
-    background-color: #ffd800;
-    border: none;
-    color: white;
-    padding: 10px 30px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
-    cursor: pointer;
+.bg {
+    background-color: aliceblue;
 }
